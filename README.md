@@ -21,7 +21,8 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
-![ex6](https://github.com/23002824/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151514009/429c1ff1-39e0-4b2b-a8a2-40d04fa525fc)
+![ex6](https://github.com/23002824/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151514009/8a8be7c0-5059-4a37-8e51-bdd714c81a88)
+
 
 ### Name:Danica Christa Babudurai
 ### Register Number:23002824
